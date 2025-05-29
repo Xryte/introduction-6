@@ -1,7 +1,5 @@
-[introduction-1]
-(git pull https://github.com/Xryte/introduction-1)
 git pull https://github.com/Xryte/introduction-1
-
+[introduction-2](git pull https://github.com/Xryte/introduction-1)
 git pull https://github.com/Xryte/introduction-2
 git rm README.md
 git checkout FETCH_HEAD -- README.md
